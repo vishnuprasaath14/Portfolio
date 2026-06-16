@@ -1,0 +1,11 @@
+{
+    "name": "vishnuprasaath-portfolio",
+    "version": "1.0.0",
+    "description": "Vishnu Prasaath VS - Professional Portfolio Website",
+    "scripts": {
+        "start": "npx serve ."
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
