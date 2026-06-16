@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "description": "Vishnu Prasaath VS - Professional Portfolio Website",
     "scripts": {
-        "start": "npx serve ."
+        "start": "serve ."
+    },
+    "dependencies": {
+        "serve": "^14.2.0"
     },
     "engines": {
         "node": ">=14.0.0"
