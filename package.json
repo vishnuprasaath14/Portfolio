@@ -3,10 +3,7 @@
     "version": "1.0.0",
     "description": "Vishnu Prasaath VS - Professional Portfolio Website",
     "scripts": {
-        "start": "serve ."
-    },
-    "dependencies": {
-        "serve": "^14.2.0"
+        "start": "node server.js"
     },
     "engines": {
         "node": ">=14.0.0"
